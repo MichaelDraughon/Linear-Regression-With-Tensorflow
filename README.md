@@ -2,8 +2,7 @@
 A simple linear regression AI made with tensorflow. I made this to help teach myself the basics of AI, and did use a tutorial 
 to make sure I was doing everything right
 
-If you want to run this code, download Anaconda and use Spyder to run this, Anaconda comes with tensorflow pre-installed along with a bunch
-of other useful libraries for python
+If you want to run this code, download Anaconda and use Spyder to run this, Anaconda should come with tensorflow pre-installed along with a bunch of other useful libraries for python, but if you get an error saying tensorflow isn't installed, you can install it though the GUI interface in anaconda.
 
 Just a quick overview of what this code does:
 this program generates a bunch of random points that have a preset "slope", and it is the AI's job to tell what that slope is.
